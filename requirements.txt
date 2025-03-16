@@ -1,0 +1,10 @@
+
+flask
+gunicorn
+nltk
+numpy
+pickle-mixin
+scikit-learn
+gym
+torch
+tensorflow
